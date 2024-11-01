@@ -1,0 +1,15 @@
+<wpml-config>  
+    <admin-texts>
+        <key name="br-splash_popup-options">
+            <key name="not_logged_text">
+                <key name="*" />
+            </key>
+            <key name="logged_text">
+                <key name="*" />
+            </key>
+            <key name="customer_text">
+                <key name="*" />
+            </key>
+        </key>
+    </admin-texts> 
+</wpml-config>

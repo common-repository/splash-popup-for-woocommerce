@@ -1,0 +1,336 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Splash Popup for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-05-27 13:02+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.2; wp-5.2"
+
+#: includes/custom_post.php:121
+msgid "Add New Popup"
+msgstr ""
+
+#: includes/custom_post.php:120
+msgid "Add Popup"
+msgstr ""
+
+#: includes/custom_post.php:119
+msgctxt "Admin menu name"
+msgid "Popups"
+msgstr ""
+
+#: templates/pages.php:8 addons/deprecated_old_popup/popup.php:180
+msgid "All"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Allows you to display your customers the information that you want to promote"
+msgstr ""
+
+#: addons/deprecated_old_popup/popup.php:109
+msgid "Background color"
+msgstr ""
+
+#: main.php:297
+msgid "Before Popup Open"
+msgstr ""
+
+#. Author of the plugin
+msgid "BeRocket"
+msgstr ""
+
+#: addons/deprecated_old_popup/popup.php:103
+msgid "Border color"
+msgstr ""
+
+#: addons/deprecated_old_popup/popup.php:97
+msgid "Border width"
+msgstr ""
+
+#: addons/deprecated_old_popup/popup.php:145
+msgid "Close button color"
+msgstr ""
+
+#: addons/deprecated_old_popup/popup.php:151
+msgid "Close button color on mouse over"
+msgstr ""
+
+#: addons/deprecated_old_popup/popup.php:139
+msgid "Close button size"
+msgstr ""
+
+#: main.php:255 includes/custom_post.php:227
+msgid "Close Timer"
+msgstr ""
+
+#: includes/custom_post.php:150
+msgid "Conditions"
+msgstr ""
+
+#: addons/deprecated_old_popup/popup.php:157
+msgid "Content background color"
+msgstr ""
+
+#: addons/deprecated_old_popup/popup.php:163
+msgid "Content font color"
+msgstr ""
+
+#: main.php:263
+msgid "Cookie Expire"
+msgstr ""
+
+#: main.php:264
+msgid "day(s)"
+msgstr ""
+
+#: includes/custom_post.php:186
+msgid "Desktop"
+msgstr ""
+
+#: main.php:228
+msgid "Display popup one time"
+msgstr ""
+
+#: main.php:229
+msgid "Display popup one time for each different content"
+msgstr ""
+
+#: main.php:230
+msgid "Display popup one time for each page"
+msgstr ""
+
+#: main.php:224
+msgid "Display popup type"
+msgstr ""
+
+#: templates/pages.php:33 templates/pages.php:49 templates/pages.php:65
+msgid "Don't show"
+msgstr ""
+
+#: includes/custom_post.php:122
+msgid "Edit"
+msgstr ""
+
+#: includes/custom_post.php:123
+msgid "Edit Popup"
+msgstr ""
+
+#: main.php:277
+msgid "Force Popup"
+msgstr ""
+
+#: includes/custom_post.php:65 templates/pages.php:13
+#: addons/deprecated_old_popup/popup.php:185
+msgid "Friday"
+msgstr ""
+
+#: addons/deprecated_old_popup/popup.php:85
+msgid "Height paddings"
+msgstr ""
+
+#: includes/custom_post.php:174
+msgid "Hide this group on:"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://berocket.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/splash-popup-for-woocommerce/"
+msgstr ""
+
+#: includes/custom_post.php:82
+msgid "Logged In"
+msgstr ""
+
+#: includes/custom_post.php:81
+msgid "Logged In Customers"
+msgstr ""
+
+#: templates/pages.php:60 addons/deprecated_old_popup/popup.php:220
+msgid "Logged In Customers Page"
+msgstr ""
+
+#: templates/pages.php:44 addons/deprecated_old_popup/popup.php:209
+msgid "Logged In Page"
+msgstr ""
+
+#: includes/custom_post.php:178
+msgid "Mobile"
+msgstr ""
+
+#: includes/custom_post.php:61 templates/pages.php:9
+#: addons/deprecated_old_popup/popup.php:181
+msgid "Monday"
+msgstr ""
+
+#: includes/custom_post.php:124
+msgid "New Popup"
+msgstr ""
+
+#: includes/custom_post.php:128
+msgid "No Popups found"
+msgstr ""
+
+#: includes/custom_post.php:129
+msgid "No Popups found in trash"
+msgstr ""
+
+#: includes/custom_post.php:80
+msgid "Not Logged In"
+msgstr ""
+
+#: templates/pages.php:28 addons/deprecated_old_popup/popup.php:198
+msgid "Not Logged In Page"
+msgstr ""
+
+#: main.php:291
+msgid "On Page Load"
+msgstr ""
+
+#: main.php:303
+msgid "On Popup Close"
+msgstr ""
+
+#: templates/pages.php:30 templates/pages.php:46 templates/pages.php:62
+#: addons/deprecated_old_popup/popup.php:199
+#: addons/deprecated_old_popup/popup.php:210
+#: addons/deprecated_old_popup/popup.php:221
+msgid "Page"
+msgstr ""
+
+#: includes/custom_post.php:118
+msgid "Popup"
+msgstr ""
+
+#: main.php:241 includes/custom_post.php:242
+msgid "Popup Height"
+msgstr ""
+
+#: main.php:235 includes/custom_post.php:235
+msgid "Popup Width"
+msgstr ""
+
+#: includes/custom_post.php:115 includes/custom_post.php:117
+msgid "Popups"
+msgstr ""
+
+#: includes/custom_post.php:151
+msgid "Product Filter Settings"
+msgstr ""
+
+#: main.php:271
+msgid "Reset Cookie on Login / Logout"
+msgstr ""
+
+#: includes/custom_post.php:66 templates/pages.php:14
+#: addons/deprecated_old_popup/popup.php:186
+msgid "Saturday"
+msgstr ""
+
+#: includes/custom_post.php:127
+msgid "Search Popups"
+msgstr ""
+
+#: main.php:248 main.php:256 includes/custom_post.php:220
+#: includes/custom_post.php:228
+msgid "second(s)"
+msgstr ""
+
+#: addons/deprecated_old_popup/popup.php:67
+msgid "Splash popup"
+msgstr ""
+
+#. Name of the plugin
+msgid "Splash Popup for WooCommerce"
+msgstr ""
+
+#: includes/custom_post.php:67 templates/pages.php:15
+#: addons/deprecated_old_popup/popup.php:187
+msgid "Sunday"
+msgstr ""
+
+#: includes/custom_post.php:182
+msgid "Tablet"
+msgstr ""
+
+#: includes/custom_post.php:131
+msgid "This is where you can add Popups."
+msgstr ""
+
+#: includes/custom_post.php:64 templates/pages.php:12
+#: addons/deprecated_old_popup/popup.php:184
+msgid "Thursday"
+msgstr ""
+
+#: main.php:247 includes/custom_post.php:219
+msgid "Timer"
+msgstr ""
+
+#: templates/pages.php:40 templates/pages.php:56 templates/pages.php:72
+#: addons/deprecated_old_popup/popup.php:206
+#: addons/deprecated_old_popup/popup.php:217
+#: addons/deprecated_old_popup/popup.php:228
+msgid "Title"
+msgstr ""
+
+#: addons/deprecated_old_popup/popup.php:115
+msgid "Title background color"
+msgstr ""
+
+#: addons/deprecated_old_popup/popup.php:121
+msgid "Title font color"
+msgstr ""
+
+#: addons/deprecated_old_popup/popup.php:127
+msgid "Title font size"
+msgstr ""
+
+#: addons/deprecated_old_popup/popup.php:133
+msgid "Title height"
+msgstr ""
+
+#: includes/custom_post.php:62 templates/pages.php:10
+#: addons/deprecated_old_popup/popup.php:182
+msgid "Tuesday"
+msgstr ""
+
+#: includes/custom_post.php:13
+msgid "User Status"
+msgstr ""
+
+#: includes/custom_post.php:126
+msgid "View Popup"
+msgstr ""
+
+#: includes/custom_post.php:125
+msgid "View Popups"
+msgstr ""
+
+#: includes/custom_post.php:63 templates/pages.php:11
+#: addons/deprecated_old_popup/popup.php:183
+msgid "Wednesday"
+msgstr ""
+
+#: includes/custom_post.php:8
+msgid "Week Day"
+msgstr ""
+
+#: addons/deprecated_old_popup/popup.php:91
+msgid "Width paddings"
+msgstr ""
+
+#: includes/custom_post.php:197
+msgid "You need save it to get shortcode"
+msgstr ""

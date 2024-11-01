@@ -1,0 +1,119 @@
+.br_settings .nav-block{
+    display: none;
+}
+.br_settings .nav-block.nav-block-active{
+    display: block;
+}
+.br_settings textarea{
+    width: 100%;
+    resize: vertical;
+    min-height: 100px;
+}
+.br_saved,
+.br_not_saved{
+    position: fixed;
+    top: 50px;
+    right: 50px;
+    z-index: 9999999;
+    color: #333333;
+    display: block;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    animation-name: br_saved_anim;
+    animation-duration: 0.2s;
+    transition: background-color 0.6s;
+    transition: box-shadow 0.6s;
+}
+@keyframes br_saved_anim {
+    from {
+        right: -50px;
+    }
+
+    to {
+        right: 50px;
+    }
+}
+.br_saved_remove {
+    animation-name: br_saved_remove_anim;
+    animation-duration: 0.2s;
+}
+@keyframes br_saved_remove_anim {
+    from {
+        right: 50px;
+    }
+
+    to {
+        right: -50px;
+    }
+}
+.br_saved{
+    box-shadow: 1px 1px 3px 1px #55ff55 inset, 0 0 5px 0;
+    background-color: #33bb33;
+}
+.br_not_saved{
+    box-shadow: 1px 1px 3px 1px #ff5555 inset, 0 0 5px 0;
+    background-color: #bb3333!important;
+}
+.br_saving {
+    box-shadow: 1px 1px 3px 1px #cfcfcf inset, 0 0 5px 0;
+    background-color: #bbbbbb!important;
+}
+.br_saved .fa,
+.br_not_saved .fa{
+    width: 50px;
+    display: block;
+    line-height: 50px;
+    vertical-align: middle;
+    text-align: center;
+    font-size: 32px;
+}
+.br_saved .fa-check,
+.br_not_saved .fa-times{
+    animation-name: br_saved_anim_fa;
+    animation-duration: 0.4s;
+}
+@keyframes br_saved_anim_fa {
+    0% {
+        font-size: 0px;
+    }
+
+    50% {
+        font-size: 0px;
+    }
+
+    100% {
+        font-size: 32px;
+    }
+}
+.br_week_select {
+    display: block;
+    padding: 0.5em;
+}
+.br_week_select.active {
+    border-left: 3px solid #555;
+}
+.br_week_block {
+    display: none;
+}
+.br_week_block.active {
+    display: block;
+}
+.br-styles-table {
+    margin: 1em 0;
+}
+.br-styles-table td,
+.br-styles-table th{
+    border: 1px solid #888;
+    text-align: center;
+}
+.br-styles-table th {
+    background-color: #fefefe;
+}
+.colorpicker_field_popup {
+    width: 24px!important;
+    height: 24px!important;
+    border: 2px solid black!important;
+    margin: auto;
+    display: inline-block!important;
+}
